@@ -1,0 +1,19 @@
+# Update Log - Version 2023.7.20
+
+## Features:
+- **Joystick Size Customization:** Players can now adjust the joystick size according to their preferences for a more personalized gaming experience.
+
+- **Destroyable Skeld Online Compatibility:** The Destroyable Skeld map is now fully functional in online multiplayer matches, adding more excitement and challenges to the gameplay.
+
+- **Fresh Colors:** We've introduced a vibrant array of new colors to choose from, allowing players to stand out and showcase their unique style.
+
+- **New Hat:** A brand new hat has been added to the collection, giving players an additional option to accessorize their characters.
+
+- **New Role - Jester:** Prepare for intrigue and deception! The Jester role is now available, adding an exciting twist to the game dynamics. Be cautious, as revealing the Jester's identity can have unexpected consequences!
+
+## Fixes:
+- **Mobile Keyboard Issue:** The annoying bug that caused the mobile keyboard from automatically opening when accessing the chat has been successfully resolved. Communicate effortlessly while on the move!
+
+- **Anonymity for Jester:** Now, players won't be able to see the identity of the Jester, keeping the game more mysterious and unpredictable.
+
+We hope you enjoy these exciting new features and improvements in the latest version. As always, your feedback is invaluable to us, so please don't hesitate to share your thoughts and suggestions. Happy gaming! 🚀🌟
