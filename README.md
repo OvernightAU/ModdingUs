@@ -1,6 +1,6 @@
 # Modding Us - Among Us Mobile Mod
 
-![Modding Us Logo](modding_us_logo.png)
+![Modding Us Logo](Overnightlogo.png)
 
 Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for both mobile and PC platforms.
 
@@ -10,7 +10,7 @@ Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twis
 
 Discover the Submerged map, an intricate and immersive world set in a colossal submarine. Uncover hidden passageways, navigate through cramped corridors, and complete a multitude of new tasks in this thrilling underwater setting. Beware of impostors lurking in the shadows as you work with your crew to achieve victory!
 
-![Submerged Map Screenshot](submerged_map_screenshot.png)
+![Submerged Map Screenshot](submergedandroid.png)
 
 ### The Jester Role - Stirring Up Mischief!
 
@@ -40,17 +40,7 @@ Note: Modding Us for iOS is currently under development and will be released soo
 
 Join our growing community of Among Us enthusiasts! If you encounter any issues, have suggestions, or want to share your experiences with Modding Us, feel free to:
 
-- Report issues on [GitHub Issues](https://github.com/moddingus/issues)
-- Join our Discord server: [Modding Us Discord](https://discord.gg/moddingus)
-
-## Contributing
-
-We welcome contributions to improve and expand Modding Us. Whether you're a developer, designer, or just an avid Among Us fan, your ideas and efforts are valued! Check out our [Contribution Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-Modding Us is released under the [MIT License](LICENSE).
-
----
+- Report issues on [GitHub Issues](https://github.com/Pietrodjaowjao/ModdingUs/issues)
+- Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
 *Disclaimer: Modding Us is a third-party mod and is not affiliated with InnerSloth. Please use this mod responsibly and adhere to the terms and conditions of Among Us and the respective platforms.*
