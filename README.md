@@ -12,9 +12,9 @@ Submerged is a mod for Among Us which adds a new map into the game. And i added 
 
 ![Submerged Map Screenshot](submergedandroid.png)
 
-### The Jester Role - Stirring Up Mischief!
+### The good and old Jester role!
 
-Introducing the Jester role, a role that you try to make crewmates think that you are a Impostor. And if you get voted out, you win!
+tTe Jester role that you all know, a role that you try to make crewmates think that you are a Impostor. And if you get voted out, you win!
 
 ### External Mods Support (Beta)
 
