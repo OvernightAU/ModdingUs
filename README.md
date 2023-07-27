@@ -1,43 +1,56 @@
-# Modding Us - Among Us Mobile and PC Mod
+# Modding Us - Among Us Mobile Mod
 
-Modding Us is a custom modification for the popular game Among Us, available on both mobile and PC platforms. This mod enhances the gameplay experience with exciting new features and improvements while preserving the essence of the original game.
+![Modding Us Logo](modding_us_logo.png)
 
-## Features:
+Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for both mobile and PC platforms.
 
-### Joystick Size Customization:
-Tailor your gaming controls to your preferences by adjusting the joystick size. Whether you prefer a larger joystick for precise movements or a smaller one for better visibility, Modding Us allows you to find the perfect fit.
+## Features
 
-### Destroyable Skeld in Online Matches:
-Experience the thrill of the Destroyable Skeld map in online multiplayer matches. The fully functional map adds an extra layer of excitement and challenge to your gameplay sessions with friends and strangers alike.
+### Submerged Map - Dive into the Depths!
 
-### Fresh Colors:
-Dress up your crewmates in a range of new and vibrant colors. Stand out from the crowd and express your unique style while trying to unmask the Impostors or evade detection as one.
+Discover the Submerged map, an intricate and immersive world set in a colossal submarine. Uncover hidden passageways, navigate through cramped corridors, and complete a multitude of new tasks in this thrilling underwater setting. Beware of impostors lurking in the shadows as you work with your crew to achieve victory!
 
-### New Hat:
-Accessorize your character with the latest addition to the hat collection. Choose from various trendy options to further personalize your in-game avatar.
+![Submerged Map Screenshot](submerged_map_screenshot.png)
 
-### New Role - Jester:
-Embark on a new role-playing experience with the addition of the Jester role. Test your acting skills by trying to mislead others into thinking you are the Impostor, without getting caught. Revel in the chaos as players speculate and strategize around this new dynamic role.
+### The Jester Role - Stirring Up Mischief!
 
-## Fixes:
+Introducing the Jester role, a mischievous character whose sole aim is to be voted out by the crew! The Jester's objective is to sow chaos and confusion, leading the crew to mistakenly eject them from the submarine. Play as the Jester and show off your trickster skills, but be careful not to reveal your true intentions too soon!
 
-### Mobile Keyboard Issue:
-We've addressed the issue where the mobile keyboard would automatically open when accessing the chat, causing inconvenience during gameplay. The keyboard now opens only when you intend to type, making communication smoother for mobile players.
+### External Mods Support (Beta)
 
-### Anonymity for Jester:
-Players will no longer be able to see the identity of the Jester, preserving the mystery and excitement around this new role.
+Modding Us is designed with flexibility in mind, and we are excited to introduce beta support for external mods. Unlock endless possibilities by creating and integrating your mods with Modding Us. Whether it's new roles, maps, or cosmetic enhancements, external modding support allows the community to shape the game according to their creative vision.
 
-## Installation:
+## Installation
 
-Follow the instructions provided in the respective installation guides for mobile and PC platforms to install Modding Us and begin enjoying the enhanced Among Us experience.
+### PC (For now unavaiable, sorry):
 
-## Feedback and Support:
+1. **Download Modding Us** - Get the latest version of Modding Us from the Releases section on GitHub.
+5. **Launch the Game** - Start Modding Us.
 
-We value your feedback and suggestions as they help us improve Modding Us further. If you encounter any issues or have ideas for future updates, please don't hesitate to contact our support team or leave feedback in the relevant community channels.
+### Mobile (Android):
 
-## Disclaimer:
+1. **Download Modding Us** - Download the Modding Us APK from the Releases section on GitHub.
+2. **Allow Unknown Sources** - Make sure you have allowed installation from unknown sources in your device settings.
+3. **Install Modding Us** - Install the APK you downloaded by following the on-screen instructions.
+4. **Launch the Game** - Open Among Us from your app drawer, and you should now see the Modding Us content.
 
-Modding Us is a third-party modification and not affiliated with the official Among Us game or its developers. Use this mod at your own risk. We do not take responsibility for any negative effects or consequences resulting from the use of Modding Us.
+Note: Modding Us for iOS is currently under development and will be released soon!
 
-Get ready to immerse yourself in an exciting world of enhanced gameplay and deception as you play Modding Us - the ultimate Among Us mod for mobile and PC! Enjoy the new features, explore the fresh content, and have a blast with your friends in this unique gaming experience. Happy modding! 🚀🌟
-All these texts are made by ChatGPT, because i'm lazy lol.
+## Community and Support
+
+Join our growing community of Among Us enthusiasts! If you encounter any issues, have suggestions, or want to share your experiences with Modding Us, feel free to:
+
+- Report issues on [GitHub Issues](https://github.com/moddingus/issues)
+- Join our Discord server: [Modding Us Discord](https://discord.gg/moddingus)
+
+## Contributing
+
+We welcome contributions to improve and expand Modding Us. Whether you're a developer, designer, or just an avid Among Us fan, your ideas and efforts are valued! Check out our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+Modding Us is released under the [MIT License](LICENSE).
+
+---
+
+*Disclaimer: Modding Us is a third-party mod and is not affiliated with InnerSloth. Please use this mod responsibly and adhere to the terms and conditions of Among Us and the respective platforms.*
