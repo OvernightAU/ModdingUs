@@ -8,13 +8,13 @@ Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twis
 
 ### Submerged Map - Dive into the Depths!
 
-Discover the Submerged map, an intricate and immersive world set in a colossal submarine. Uncover hidden passageways, navigate through cramped corridors, and complete a multitude of new tasks in this thrilling underwater setting. Beware of impostors lurking in the shadows as you work with your crew to achieve victory!
+Submerged is a mod for Among Us which adds a new map into the game. And i added it to my mod.
 
 ![Submerged Map Screenshot](submergedandroid.png)
 
 ### The Jester Role - Stirring Up Mischief!
 
-Introducing the Jester role, a mischievous character whose sole aim is to be voted out by the crew! The Jester's objective is to sow chaos and confusion, leading the crew to mistakenly eject them from the submarine. Play as the Jester and show off your trickster skills, but be careful not to reveal your true intentions too soon!
+Introducing the Jester role, a role that you try to make crewmates think that you are a Impostor. And if you get voted out, you win!
 
 ### External Mods Support (Beta)
 
