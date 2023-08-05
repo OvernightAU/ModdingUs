@@ -1,2 +1,3 @@
-We are workigy on the tasks uodate!
-A update that adds all submerged tasks, various bug fixes and fetaures
+<b>Warning!</b>
+The server will not work even if it's online without configuration, i forgot to turn it on and now the Port has changed
+In order to make it work, go in the Online menu, click in CUSTOMIZE, and put in IP : 51.81.166.66 and in Port: 16368
