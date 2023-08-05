@@ -16,9 +16,9 @@ Submerged is a mod for Among Us which adds a new map into the game. And i added 
 
 The Jester role that you all know, a role that you try to make crewmates think that you are a Impostor. And if you get voted out, you win!
 
-### External Mods Support (Beta)
+### External Mods Support (In Development)
 
-Modding Us is designed with flexibility in mind, and we are excited to introduce beta support for external mods. Unlock endless possibilities by creating and integrating your mods with Modding Us. Whether it's new roles, maps, or cosmetic enhancements, external modding support allows the community to shape the game according to their creative vision.
+Modding Us is will have a external mods supports, that will let you create and download mods that adds new roles, maps, mechanics, and much more.
 
 ## Installation
 
@@ -38,7 +38,7 @@ Note: Modding Us for iOS is currently under development and will be released soo
 
 ## Community and Support
 
-Join our growing community of Among Us enthusiasts! If you encounter any issues, have suggestions, or want to share your experiences with Modding Us, feel free to:
+Join our community of Modding Us! If you encounter any issues, have suggestions, or want to share your experiences with the game, feel free to:
 
 - Report issues on [GitHub Issues](https://github.com/Pietrodjaowjao/ModdingUs/issues)
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
