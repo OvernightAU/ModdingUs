@@ -1,3 +1,6 @@
-<b>Warning!</b>
-The server will not work even if it's online without configuration, i forgot to turn it on and now the Port has changed
-In order to make it work, go in the Online menu, click in CUSTOMIZE, and put in IP : 51.81.166.66 and in Port: 16368
+<b>Finally!</b>
+Modding Us Submerged Task Update pre-release is OUT!
+Instructions of how to download on discord.
+Feel free to report any bugs of it.
+Unfortunately i can't put clickable links here but here is the link:
+bit.ly/44V6iGv
