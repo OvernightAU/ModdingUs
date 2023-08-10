@@ -1,4 +1,4 @@
-<b>Yoooo<sprite=10></b>
-Tasks update are finally released
-Lets play on online
-close and open the game if the thing glitched idk
+<b>Well..</b>
+I just made a more compatible and better shadow system
+And made chatbox better
+Also fixed some sabotages and tasks
