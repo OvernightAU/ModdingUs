@@ -44,3 +44,50 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
 *Disclaimer: Modding Us is a third-party mod and is not affiliated with InnerSloth. Please use this mod responsibly and adhere to the terms and conditions of Among Us and the respective platforms.*
+
+# Modding Us Credits
+- Project Lead and Developer
+  - [Pietro](https://www.youtube.com/@pietro1613)
+
+- Artists
+  - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
+  - [OAnimanex](https://www.youtube.com/channel/UCg3yECwNPEtMaDL9ZDj10WA)
+
+- Testers
+  - [ExyZero](https://www.youtube.com/@wtfexy_)
+
+# Submerged Credits
+
+- Project Lead
+  - [5up](https://twitch.tv/5up/)
+- Developers
+  - [Alexejhero](https://github.com/Alexejhero/)
+  - [arctic_zeph](https://twitter.com/arctic_zeph/)
+  - [probablyadnf](https://github.com/simonkellly/)
+- Map Design
+  - [Axyn](https://twitter.com/itsAxyn/)
+  - [Blaustoise](https://twitter.com/blaustoise/)
+- Artists
+  - [colerobin_](https://twitter.com/colerobin_)
+  - [flipsonthemoon](https://twitter.com/flipsonthemoon/)
+  - [mushrium](https://twitter.com/mushrium/)
+  - [sabimrtn](https://twitter.com/sabimrtn/)
+  - [theinkpages](https://www.instagram.com/theinkpages/)
+  - [xiiyta](https://twitter.com/xiiyta/)
+- Technical Support
+  - [cybershard](https://github.com/cybershard/)
+  - [js6pak](https://github.com/js6pak)
+  - [Sanae6](https://twitter.com/Sanae6k/)
+- Additional Art
+  - [acronmd](https://twitter.com/acronmd/)
+- Translators
+  - [Dekokiyo](https://twitter.com/DekoKiyomori) - 日本語
+  - [ItsNiceCraft](https://linktr.ee/itsnicecraft) - Deutsch
+  - [MissJukebox](https://www.twitch.tv/missjukebox/) - Español
+  - Monid73 - Русский
+  - [RevoLou](https://twitter.com/Psyco_Lou/) - Português do Brasil
+  - RobinRMC - Nederlands
+  - [SPRLC](https://twitter.com/SuperLanceur) - Français
+  - [ねろちゃん](https://www.twitch.tv/zackdnerrr/) - 日本語
+  - 阿龍DragonTw - 繁體中文
+  - [黑客Hecker](https://www.twitch.tv/heckertv/) - 简体中文
