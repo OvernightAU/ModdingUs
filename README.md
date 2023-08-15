@@ -16,6 +16,10 @@ Submerged is a mod for Among Us which adds a new map into the game. And i added 
 
 The Jester role that you all know, a role that you try to make crewmates think that you are a Impostor. And if you get voted out, you win!
 
+### Submerged Tasks
+
+It includes almost all tasks of Submerged!
+
 ### External Mods Support (In Development)
 
 Modding Us is will have a external mods supports, that will let you create and download mods that adds new roles, maps, mechanics, and much more.
