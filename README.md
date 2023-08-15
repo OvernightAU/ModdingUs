@@ -56,6 +56,9 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Testers
   - [ExyZero](https://www.youtube.com/@wtfexy_)
 
+- Additional Help
+  - [Dxgamer](https://www.youtube.com/@Dxgamer7405)
+
 - Softwares
   - [AssetRipper](https://github.com/AssetRipper/AssetRipper) (decompiled Among Us)
   - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes so i can have a idea of what i can do)
