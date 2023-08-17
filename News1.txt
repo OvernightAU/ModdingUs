@@ -1,4 +1,9 @@
 <b>Important.</b>
-Online will not be avaiable for now
-Lemehost deleted my server and i need to create another
+<color=blue>English<color=white>
+Online will not be avaiable for now.
+Lemehost deleted my server and i need to create another.
 The online will be avaiable in the next update.
+<color=blue>PT-BR<color=white>
+O online não estará disponível no momento.
+o lemehost excluiu meu servidor e preciso criar outro.
+O online estará disponível apenas na próxima atualização.
