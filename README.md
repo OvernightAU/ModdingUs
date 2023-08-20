@@ -59,8 +59,6 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 
 - Testers
   - [ExyZero](https://www.youtube.com/@wtfexy_)
-
-- Additional Help
   - [Dxgamer](https://www.youtube.com/@Dxgamer7405)
 
 - Softwares
