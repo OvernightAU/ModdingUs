@@ -2,7 +2,7 @@
 
 ![Modding Us Logo](Overnightlogo.png)
 
-Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for both mobile and PC platforms.
+Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for both mobile and P̶C̶ ̶p̶l̶a̶t̶f̶o̶r̶m̶s̶.̶
 
 ## Features
 
