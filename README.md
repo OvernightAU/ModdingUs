@@ -1,3 +1,7 @@
+# Warning!!! please read.
+Modding us is disabled for a little while, we are working in a launcher
+so the mod will be legal in law.
+
 # Modding Us - Among Us Mobile Mod
 
 ![Modding Us Logo](Overnightlogo.png)
