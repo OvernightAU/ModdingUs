@@ -1,5 +1,3 @@
-<b></b>
-Just remembering something...
-You can redownload the apk
-This update fixes ChatBox
-<link='https://github.com/OvernightAU/ModdingUs/releases/tag/2023.9.3'>Click here to redownload.</link>
+<b>Betas</b>
+Latest beta on discord server.
+<link='https://discord.gg/bqACpqjMw9'>Click here to join the server and download</link>
