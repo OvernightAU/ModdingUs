@@ -33,7 +33,7 @@ Modding Us is will have a external mods supports, that will let you create and d
 
 ### Mobile (Android):
 
-1. **Download Modding Us** - Download the Modding Us APK from the Releases section on GitHub.
+1. **Download Modding Us** - Download the Modding Us APK from the [Releases](https://github.com/OvernightAU/ModdingUs/releases).
 2. **Allow Unknown Sources** - Make sure you have allowed installation from unknown sources in your device settings.
 3. **Install Modding Us** - Install the APK you downloaded by following the on-screen instructions.
 4. **Launch the Game** - Open Among Us from your app drawer, and you should now see the Modding Us content.
