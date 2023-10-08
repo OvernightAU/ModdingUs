@@ -55,6 +55,7 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 
 - Artists
   - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
+  - [Sonrio](https://www.youtube.com/channel/UCq2mi9fit3RoJAJIP31iKAA)
 
 - Submerged
   - [Main Page](https://github.com/SubmergedAmongUs/Submerged)
