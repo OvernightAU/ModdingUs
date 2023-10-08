@@ -55,7 +55,11 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 
 - Artists
   - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
-  - [OAnimanex](https://www.youtube.com/channel/UCg3yECwNPEtMaDL9ZDj10WA)
+
+- Submerged
+  - [Main Page](https://github.com/SubmergedAmongUs/Submerged)
+  - [Credits](https://github.com/SubmergedAmongUs/Submerged#credits)
+  - [Releases](https://github.com/SubmergedAmongUs/Submerged/releases/)
 
 - Testers
   - [ExyZero](https://www.youtube.com/@wtfexy_)
@@ -64,39 +68,3 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Softwares
   - [AssetRipper](https://github.com/AssetRipper/AssetRipper) (decompiled Among Us)
   - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes so i can have a idea of what i can do)
-
-# Submerged Credits
-
-- Project Lead
-  - [5up](https://twitch.tv/5up/)
-- Developers
-  - [Alexejhero](https://github.com/Alexejhero/)
-  - [arctic_zeph](https://twitter.com/arctic_zeph/)
-  - [probablyadnf](https://github.com/simonkellly/)
-- Map Design
-  - [Axyn](https://twitter.com/itsAxyn/)
-  - [Blaustoise](https://twitter.com/blaustoise/)
-- Artists
-  - [colerobin_](https://twitter.com/colerobin_)
-  - [flipsonthemoon](https://twitter.com/flipsonthemoon/)
-  - [mushrium](https://twitter.com/mushrium/)
-  - [sabimrtn](https://twitter.com/sabimrtn/)
-  - [theinkpages](https://www.instagram.com/theinkpages/)
-  - [xiiyta](https://twitter.com/xiiyta/)
-- Technical Support
-  - [cybershard](https://github.com/cybershard/)
-  - [js6pak](https://github.com/js6pak)
-  - [Sanae6](https://twitter.com/Sanae6k/)
-- Additional Art
-  - [acronmd](https://twitter.com/acronmd/)
-- Translators
-  - [Dekokiyo](https://twitter.com/DekoKiyomori) - 日本語
-  - [ItsNiceCraft](https://linktr.ee/itsnicecraft) - Deutsch
-  - [MissJukebox](https://www.twitch.tv/missjukebox/) - Español
-  - Monid73 - Русский
-  - [RevoLou](https://twitter.com/Psyco_Lou/) - Português do Brasil
-  - RobinRMC - Nederlands
-  - [SPRLC](https://twitter.com/SuperLanceur) - Français
-  - [ねろちゃん](https://www.twitch.tv/zackdnerrr/) - 日本語
-  - 阿龍DragonTw - 繁體中文
-  - [黑客Hecker](https://www.twitch.tv/heckertv/) - 简体中文
