@@ -1,6 +1,5 @@
 <b>SCAM WARNING</b>
-<size=50%>Dear Modding Us Community,
-
+<size=60%>Dear Modding Us Community,
 We regret to inform you about a scam that has come to our attention. A YouTube channel going by the name "Submerged among us" is involved in the unauthorized redistribution of the "Modding Us" mod, and they are claiming credit for its creation while including harmful viruses in their downloads.
 
 What's happening:
@@ -9,14 +8,10 @@ What's happening:
 They are falsely claiming credit for the mod, misleading the community and taking away from the hard work and dedication of the actual creators.
 Even more concerning, they are distributing versions of the mod that contain malicious viruses, putting your computer's security at risk.
 What you should do:
-
 Do NOT download from youtube.com/@Submerged_among_us: Please do not download or interact with any content provided by this channel. It may harm your computer and take credit away from the legitimate creators.
 
 Report the channel: If you encounter any content from youtube.com/@Submerged_among_us that infringes on your rights or contains harmful material, please report it to YouTube immediately.
 
 Support the original creators: If you enjoy the "Modding Us" mod or any other user-generated content, make sure to support the actual creators by downloading from their official sources or websites. This ensures that you are getting safe, legitimate content and giving credit where it is due.
-
 Keep your security software up-to-date: To protect yourself from potential viruses, always have reliable antivirus software and a firewall installed and keep them up to date.
 The official website is <link='https://github.com/OvernightAU/ModdingUs/releases/'>this one</link>
-
-Thank you for your attention and continued support of the Modding Us community.
