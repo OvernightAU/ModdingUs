@@ -1,16 +1,3 @@
-<b>SCAM WARNING</b>
-<size=60%>Dear Modding Us Community,
-
-What's happening:
-@Submerged_among_us is distributing the "Modding Us"
-They are falsely claiming credit for the mod, misleading the community and taking away from the hard work and dedication of the actual creators.
-Even more concerning, they are distributing versions of the mod that contain malicious viruses, putting your phone's security at risk.
-What you should do:
-
-Do NOT download from youtube.com/@Submerged_among_us: Please do not download or interact with any content provided by this channel. It may harm your phone and take credit away from the legitimate creators.
-Report the channel: If you encounter any content from youtube.com/@Submerged_among_us that infringes on your rights or contains harmful material, please report it to YouTube immediately.
-
-Support the original creators: If you enjoy the "Modding Us" mod or any other user-generated content, make sure to support the actual creators by downloading from their official sources or websites. This ensures that you are getting safe, legitimate content and giving credit where it is due.
-The official website is <link='https://github.com/OvernightAU/ModdingUs/releases/'>this one</link>
-
-Also we got a new tester SavaLava9! His discord is ThatDude128! He will be a iTester (Apple Build Tester) He will also try to help all you as much as he can! So welcome him in our community!
+<b>New alpha version</b>
+The latest alpha is cool so 
+To download click in the link <link='https://github.com/OvernightAU/ModdingUs/releases/tag/Not-Release/'>this one</link>
