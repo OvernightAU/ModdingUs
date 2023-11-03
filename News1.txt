@@ -1,3 +1,2 @@
-<b>New alpha version</b>
-The latest alpha is cool so 
-Click in the link <link='https://github.com/OvernightAU/ModdingUs/releases/tag/Not-Release/'>this one</link> to download.
+<color=blue><b>Goofy Ahhh</b></color>
+The 2023.10.2 is not the actual release, its just to not show the Ahhhh Update Available! Thing.
