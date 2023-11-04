@@ -52,7 +52,7 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 
 # Modding Us Credits
 - Project Lead and Developer
-  - [Pietro](https://www.youtube.com/@pietro1613)
+  - [Pietro](https://www.youtube.com/@pietro420)
 
 - Artists
   - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
