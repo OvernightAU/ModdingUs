@@ -1,22 +1,23 @@
-# Modding Us - Among Us Mobile Mod
+<!-- # Modding Us - Among Us Mobile Mod
 
-Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for Android devices
+Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for Android devices -->
 
 ### Currently in a shutdown
 
 I'm putting in a lot of effort to convert Modding Us to a pure script using DobbyHook. The current method goes against Innersloth Guidelines because Modding Us is essentially a decompiled version of the game, and sharing the APK counts as redistribution. That's why I'm working on turning it into a launcher that hooks into the original game instead of being a separate game.
 
+<!--
 ## Features
 
 ### Submerged Map - Dive into the Depths!
+
+![Submerged Map Screenshot](submergedandroid.jpg)
 
 Submerged is a mod for Among Us which adds a new map into the game. And i added it to my mod.
 
 ### Ai testing
 
 Modding Us includes a map called backrooms, that is progammed to track all players and kill them
-
-![Submerged Map Screenshot](submergedandroid.jpg)
 
 ### Submerged Tasks
 
@@ -73,3 +74,4 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Softwares
   - [AssetRipper](https://github.com/AssetRipper/AssetRipper) (decompiled Among Us)
   - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes so i can have a idea of what i can do)
+  -->
