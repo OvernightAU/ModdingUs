@@ -10,7 +10,7 @@ Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twis
 
 Submerged is a mod for Among Us which adds a new map into the game. And i added it to my mod.
 
-![Submerged Map Screenshot](submergedandroid.png)
+![Submerged Map Screenshot](submergedandroid.jpg)
 
 ### The good and old Jester role!
 
