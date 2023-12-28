@@ -50,7 +50,7 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Report issues on [GitHub Issues](https://github.com/Pietrodjaowjao/ModdingUs/issues) or Live Chat with a staff on the [Support Server](https://discord.gg/gacJbcyuMr)
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
-*Disclaimer: Modding Us is a third-party mod and is not affiliated with InnerSloth. Please use this mod responsibly and adhere to the terms and conditions of Among Us and the respective platforms.*
+This is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
 # Modding Us Credits
 - Project Lead and Developer
@@ -73,4 +73,3 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Softwares
   - [AssetRipper](https://github.com/AssetRipper/AssetRipper) (decompiled Among Us)
   - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes so i can have a idea of what i can do)
-  -->
