@@ -1,2 +1,2 @@
-<color=blue><b>Important</b></color>
-I will do a API and server-side update pretty soon. So please update when available or else matchmaking and all api-related things will begone
+<color=blue><b>API Update</b></color>
+now that you are in the newest version you will see that the api is way better, now game listing is not broken too.
