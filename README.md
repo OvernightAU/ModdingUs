@@ -10,7 +10,7 @@ I'm putting in a lot of effort to convert Modding Us to a pure script using Dobb
 
 ### Submerged Map - Dive into the Depths!
 
-![Submerged Map Screenshot](submergedandroid.jpg)
+![Submerged Map Screenshot](art/submergedandroid.jpg)
 
 Submerged is a mod for Among Us which adds a new map into the game. And i added it to my mod.
 
