@@ -1,2 +1,2 @@
-<color=blue><b>Goofy Ahhh</b></color>
-The 2023.11.2 is not the actual release, its just to not show the Ahhhh Update Available! Thing.
+<color=blue><b>Important</b></color>
+I will do a API and server-side update pretty soon. So please update when available or else matchmaking and all api-related things will begone
