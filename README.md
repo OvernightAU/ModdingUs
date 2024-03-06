@@ -1,11 +1,6 @@
-# Modding Us - Among Us Mobile Mod
-
-Modding Us is an exciting and feature-rich Among Us mod that brings a fresh twist to the game. With new maps, roles, and external mod support, Modding Us takes the classic Among Us experience to a whole new level! This mod is available for Android devices
-
-<!--### Currently in a shutdown
-
-I'm putting in a lot of effort to convert Modding Us to a pure script using DobbyHook. The current method goes against Innersloth Guidelines because Modding Us is essentially a decompiled version of the game, and sharing the APK counts as redistribution. That's why I'm working on turning it into a launcher that hooks into the original game instead of being a separate game. -->
-
+This project might be put on hold for a while because I'll be working on creating an easy mobile modding environment for Among Us. This environment will inject hooks into the game so that modders can modify it easily. You can go to [this link](https://github.com/OvernightAU/ModdingUs/releases/tag/Not-Release) to download, but please note that this repository may get archived for several reasons.
+Some are legal reasons and also because rn i can't host online servers rn lmao.
+<!--
 ## Features
 
 ### Submerged Map - Dive into the Depths!
@@ -51,7 +46,7 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
 This is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
-
+-->
 # Modding Us Credits
 - Project Lead and Developer
   - [Pietro](https://www.youtube.com/@pietro420)
