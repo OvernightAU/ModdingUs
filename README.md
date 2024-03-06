@@ -1,5 +1,5 @@
 This project might be put on hold for a while because I'll be working on creating an easy mobile modding environment for Among Us. This environment will have a much simplier codebase to inject the hooks, so the modders can easily port their mods to mobile and pc. You can go to [this link](https://github.com/OvernightAU/ModdingUs/releases/tag/Not-Release) to download, but please note that this repository may get archived for several reasons.
-Some are legal reasons and also because rn i can't host online servers rn lmao.
+Some are legal reasons and also because i can't host online servers rn lmao.
 <!--
 ## Features
 
