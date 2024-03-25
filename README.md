@@ -63,7 +63,7 @@ You can Contact us at: <a href="mailto:drycanova@gmail.com" style="color:blue;">
 - Artists
   - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
   - [Sonrio](https://www.youtube.com/channel/UCq2mi9fit3RoJAJIP31iKAA)
-  - RSE (Looks like he does not have any social media)
+  - [RSE]([https://www.youtube.com/channel/UCq2mi9fit3RoJAJIP31iKAA](https://www.reddit.com/user/rotten_pennis/))
 
 - Submerged
   - [Main Page](https://github.com/SubmergedAmongUs/Submerged)
