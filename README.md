@@ -47,6 +47,9 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 
 This is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 -->
+
+This project is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+
 # Modding Us Credits
 - Project Lead and Developer
   - [Pietro](https://www.youtube.com/@pietro420)
