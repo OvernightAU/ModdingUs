@@ -47,8 +47,14 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 
 This is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 -->
-
+# Disclaimer and Distribution Notice for Third-Party Content
 This project is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+
+The map "Submerged" is not my creation, nor has it been officially added by any original dev. Therefore, don't expect any bug fixes from the original developers. However, if you're interested in an official distribution of Submerged and have a PC, you can find it at https://github.com/SubmergedAmongUs/Submerged.
+
+In the event of a formal request for the removal of the "Submerged" map by developers associated with Submerged, I hereby agree to promptly remove said map. Additionally, if Innersloth, the creator of the base game, requests the cessation or temporary suspension of the game due to policy infractions, I will willingly adhere to their directives.
+
+You can Contact us at: <a href="mailto:drycanova@gmail.com" style="color:blue;">drycanova@gmail.com</a>
 
 # Modding Us Credits
 - Project Lead and Developer
@@ -57,6 +63,7 @@ This project is not affiliated with Among Us or Innersloth LLC, and the content 
 - Artists
   - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
   - [Sonrio](https://www.youtube.com/channel/UCq2mi9fit3RoJAJIP31iKAA)
+  - RSE (Looks like he does not have any social media)
 
 - Submerged
   - [Main Page](https://github.com/SubmergedAmongUs/Submerged)
