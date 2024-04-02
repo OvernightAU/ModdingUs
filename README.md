@@ -10,6 +10,9 @@ Some are legal reasons and also because i can't host online servers rn lmao.-->
 
 Submerged is a mod for Among Us which adds a new map into the game. And i added it to my mod.
 
+### Custom maps
+Some partners are working on new maps that are coming soon!
+
 ### External Mods Support (Done)
 
 Modding Us is has external mods support. so devs can easily create their own mods. [Mod Example](https://github.com/OvernightAU/ModdingUs-RoleExample)
