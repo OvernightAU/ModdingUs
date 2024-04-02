@@ -1,6 +1,7 @@
-This project might be put on hold for a while because I'll be working on creating an easy mobile modding environment for Among Us. This environment will have a much simplier codebase to inject the hooks, so the modders can easily port their mods to mobile and pc. You can still go to [this link](https://github.com/OvernightAU/ModdingUs/releases/tag/Not-Release) to download, but please note that this repository may get archived for several reasons.
-Some are legal reasons and also because i can't host online servers rn lmao.
-<!--
+<!--This project might be put on hold for a while because I'll be working on creating an easy mobile modding environment for Among Us. This environment will have a much simplier codebase to inject the hooks, so the modders can easily port their mods to mobile and pc. You can still go to [this link](https://github.com/OvernightAU/ModdingUs/releases/tag/Not-Release) to download, but please note that this repository may get archived for several reasons.
+Some are legal reasons and also because i can't host online servers rn lmao.-->
+
+
 ## Features
 
 ### Submerged Map - Dive into the Depths!
@@ -8,10 +9,6 @@ Some are legal reasons and also because i can't host online servers rn lmao.
 ![Submerged Map Screenshot](art/submergedandroid.jpg)
 
 Submerged is a mod for Among Us which adds a new map into the game. And i added it to my mod.
-
-### Ai testing
-
-Modding Us includes a map called backrooms, that is progammed to track all players and kill them
 
 ### Submerged Tasks
 
@@ -45,8 +42,6 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Report issues on [GitHub Issues](https://github.com/Pietrodjaowjao/ModdingUs/issues) or Live Chat with a staff on the [Support Server](https://discord.gg/gacJbcyuMr)
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
-This is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
--->
 # Disclaimer and Distribution Notice for Third-Party Content
 This project is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
