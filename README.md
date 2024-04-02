@@ -13,6 +13,15 @@ Submerged is a mod for Among Us which adds a new map into the game. And i added 
 ### Custom maps
 Some partners are working on new maps that are coming soon!
 
+##Custom roles
+Integrated custom roles:
+Engineer (You can use vents)
+Sheriff (You need to shot the impostor)
+Medic (you can revive dead bodies)
+Jester (you will win if you get voted out)
+Pelican (you can eat crewmates)
+Bomber (you can throw bombs at the map)
+
 ### External Mods Support (Done)
 
 Modding Us is has external mods support. so devs can easily create their own mods. [Mod Example](https://github.com/OvernightAU/ModdingUs-RoleExample)
