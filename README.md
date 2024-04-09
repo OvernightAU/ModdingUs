@@ -14,7 +14,6 @@ Integrated custom roles:
 - Medic (you can revive dead bodies)
 - Jester (you will win if you get voted out)
 - Pelican (you can eat crewmates)
-- Bomber (you can throw bombs at the map)
 
 ### External Mods Support (Done)
 
