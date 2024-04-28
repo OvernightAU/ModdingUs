@@ -50,7 +50,7 @@ The map "Submerged" is not my creation, nor has it been officially added by any 
 
 In the event of a formal request for the removal of the "Submerged" map by developers associated with Submerged, I hereby agree to promptly remove said map. Additionally, if Innersloth, the creator of the base game, requests the cessation or temporary suspension of the game due to policy infractions, I will willingly adhere to their directives.
 
-You can Contact us at: <a href="mailto:drycanova@gmail.com" style="color:blue;">drycanova@gmail.com</a>
+You can Contact us at: <a href="mailto:lorenzogamer398@gmail.com" style="color:blue;">lorenzogamer398@gmail.com</a>
 
 # Modding Us Credits
 - Project Lead and Developer
