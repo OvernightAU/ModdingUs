@@ -22,7 +22,7 @@ public class DynamicCode
         __instance.nameText.Text = "TEST " + Time.realtimeSinceStartup;
     }
 
-    private void PatchPlayerControlUpdate()
+    private static void PatchPlayerControlUpdate()
     {
         var original = AccessTools.Method(typeof(PlayerControl), "FixedUpdate");
         var postfix = new HarmonyMethod(typeof(DynamicCode), "PlayerControlUpdatePostfix");
