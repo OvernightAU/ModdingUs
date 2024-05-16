@@ -14,12 +14,19 @@ public class DynamicCode
         harmony = new Harmony("com.example.dynamiccode");
         GameObject.Find("VersionShower").GetComponent<TextMeshPro>().text += "<color=blue><size=75%> Runtime code loaded!";
         UnityEngine.Debug.Log("Sussy baka");
-        harmony.PatchAll();
+        PatchPlayerControlUpdate();
     }
 
-    [HarmonyPatch(typeof(PlayerControl), "FixedUpdate")]
-    public static void PlayerControlUpdate(PlayerControl __instance)
+    public void PlayerControlUpdatePostfix(PlayerControl __instance)
     {
         __instance.nameText.Text = "TEST " + Time.realtimeSinceStartup;
+    }
+
+    private void PatchPlayerControlUpdate()
+    {
+        var original = AccessTools.Method(typeof(PlayerControl), methodName);
+        var postfix = new HarmonyMethod(typeof(DynamicCode), "PlayerControlUpdatePostfix");
+
+        harmony.Patch(original, postfix: postfix);
     }
 }
