@@ -10,6 +10,8 @@ public class DynamicCode
     
     public void Execute()
     {
+        if (harmony != null) return;
+        harmony = new Harmony("com.example.dynamiccode");
         GameObject.Find("VersionShower").GetComponent<TextMeshPro>().text += "<color=blue><size=75%> Runtime code loaded!";
         UnityEngine.Debug.Log("Sussy baka");
         harmony.PatchAll();
