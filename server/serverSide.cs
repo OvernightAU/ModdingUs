@@ -17,7 +17,7 @@ public class DynamicCode
         PatchPlayerControlUpdate();
     }
 
-    public void PlayerControlUpdatePostfix(PlayerControl __instance)
+    public static void PlayerControlUpdatePostfix(PlayerControl __instance)
     {
         __instance.nameText.Text = "TEST " + Time.realtimeSinceStartup;
     }
