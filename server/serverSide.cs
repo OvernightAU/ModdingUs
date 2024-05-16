@@ -24,7 +24,7 @@ public class DynamicCode
 
     private void PatchPlayerControlUpdate()
     {
-        var original = AccessTools.Method(typeof(PlayerControl), methodName);
+        var original = AccessTools.Method(typeof(PlayerControl), "FixedUpdate");
         var postfix = new HarmonyMethod(typeof(DynamicCode), "PlayerControlUpdatePostfix");
 
         harmony.Patch(original, postfix: postfix);
