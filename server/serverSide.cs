@@ -24,7 +24,7 @@ public class DynamicCode
 
     public static void VersionShowerStart(VersionShower __instance)
     {
-        __instance.text.Text += "<color=blue><size=75%> Runtime code v2 loaded!";
+        __instance.text.text += "<color=blue><size=75%> Runtime code v2 loaded!";
     }
 
     private static void PatchPlayerControlUpdate()
