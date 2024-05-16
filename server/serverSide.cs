@@ -6,7 +6,7 @@ using HarmonyLib;
 
 public class DynamicCode
 {
-    private Harmony harmony;
+    private static Harmony harmony;
     
     public void Execute()
     {
