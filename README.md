@@ -17,7 +17,7 @@ Integrated custom roles:
 
 ### External Mods Support (Done)
 
-Modding Us is has external mods support. so devs can easily create their own mods. [Mod Example](https://github.com/OvernightAU/ModdingUs-RoleExample)
+Modding Us is has external mods support. so devs can easily create their own mods. [Mod Example](https://github.com/OvernightAU/Experimental-RoleExample)
 
 ## Installation
 
