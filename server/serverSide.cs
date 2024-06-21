@@ -17,13 +17,13 @@ public class DynamicCode
             What();
         }
 
-		SceneManager.activeSceneChanged += delegate(Scene oldScene, Scene scene)
-		{
+	SceneManager.activeSceneChanged += delegate(Scene oldScene, Scene scene)
+	{
             if (scene.name == "MainMenu")
             {
                 What();
             }
-		};
+	};
     }
 
     internal void What()
