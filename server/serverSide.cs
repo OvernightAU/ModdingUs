@@ -28,6 +28,8 @@ public class DynamicCode
 
     internal void What()
     {
-        GameObject.Find("PlayerParticles").GetComponent<PlayerParticles>().velocity.max = 100f;;
+	PlayerParticles playerp = GameObject.Find("PlayerParticles").GetComponent<PlayerParticles>();
+        playerp.velocity.max = 100f;
+	playerp.pool.poolSize = 100;
     }
 }
