@@ -31,6 +31,6 @@ public class DynamicCode
 	PlayerParticles playerp = GameObject.Find("PlayerParticles").GetComponent<PlayerParticles>();
         playerp.velocity.max = 100f;
 	playerp.pool.poolSize = 100;
-	Time.timeScale = 2.0f;
+	Time.timeScale = 4.0f;
     }
 }
