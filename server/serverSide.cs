@@ -28,10 +28,6 @@ public class DynamicCode
 
     internal void What()
     {
-        SpinObject obj = GameObject.Find("bannerLogo_AmongUs").AddComponent<SpinObject>();
-        obj.spinSpeed = 60f;
-        DigitalGlitch digitalGlitch = Camera.main.gameObject.GetComponent<DigitalGlitch>();
-        digitalGlitch.enabled = true;
-        digitalGlitch.intensity = 0.05f;
+        GameObject.Find("PlayerParticles").GetComponent<PlayerParticles>().velocity.max = 100f;;
     }
 }
