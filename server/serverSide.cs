@@ -13,16 +13,20 @@ public class DynamicCode
         Debug.Log("Online Asset Preloader Initialized.");
 
         SceneManager.activeSceneChanged += delegate(Scene oldScene, Scene scene)
-	    {
+	{
             if (scene.name == "MainMenu")
             {
-                ExecuteMainMenu();
+                ExecuteMainMenu("scene change");
             }
-	    };
+	};
+	MUEventManager.Instance.OnEventCalled("MainMenuManager::Start::Postfix", (parameters) =>
+        {
+            ExecuteMainMenu("event");
+        });
     }
 
-    public void ExecuteMainMenu()
+    public void ExecuteMainMenu(string caller)
     {
-        Debug.Log("Hooked up main menu loaded.");
+        Debug.Log("Hooked up main menu loaded. via " + caller);
     }
 }
