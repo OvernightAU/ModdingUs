@@ -10,5 +10,11 @@ public class DynamicCode
 {    
     public void Execute()
     {
+        Debug.Log("Online Asset Preloader Initialized.");
+        
+        if (SceneManager.GetActiveScene().name == "MainMenu")
+        {
+            Debug.Log("Hooked up main menu loaded.");
+        }
     }
 }
