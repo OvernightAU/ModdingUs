@@ -12,9 +12,9 @@ public class DynamicCode
     {
         Debug.Log("Online Asset Preloader Initialized.");
         
-        if (SceneManager.GetActiveScene().name == "MainMenu")
+        MUEventManager.Instance.OnEventCalled("MainMenuManager::Start::Postfix", (parameters) =>
         {
             Debug.Log("Hooked up main menu loaded.");
-        }
+        });
     }
 }
