@@ -15,6 +15,8 @@
 
 <br>
 
+---
+
 ## Features
 
 ### Custom maps
