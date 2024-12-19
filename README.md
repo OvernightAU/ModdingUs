@@ -2,13 +2,18 @@
 
 <br>
 
-<img align="left" alt="Cover" src="art/MULogoRebrand.png" width="40%" height="40%" /> 
+<img align="left" alt="Cover" src="art/MULogoRebrand.png" width="10%" height="10%" />
 
-<p align="right">
-  > ### Regarding this mod
-  >
-  > This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+<p style="float: right; width: 55%;">
+
+> ### Regarding this mod
+>
+> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+<br>
+
 </p>
+
+<br>
 
 ## Features
 
@@ -26,7 +31,7 @@ Integrated custom roles:
 - Phantom (turn invisible)
 - Shapeshifter (disguise yourself)
 
-### External Mods Support (Done)
+### External Mods Support
 
 Modding Us has external mods support. so devs can easily create their own mods. [Mod Example](https://github.com/OvernightAU/Experimental-RoleExample)
 
