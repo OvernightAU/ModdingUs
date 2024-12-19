@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="left" alt="Cover" src="art/MULogoRebrand.png" width="50%" height="300" /> 
+<img align="left" alt="Cover" src="art/MULogoRebrand.png" width="50%" height="50%" /> 
 
 <p align="right">
   
