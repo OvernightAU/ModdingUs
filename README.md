@@ -1,7 +1,3 @@
-<h1 align="center">Modding Us</h1>
-
-<br>
-
 <img align="left" alt="Cover" src="art/MULogoRebrand.png" width="10%" height="10%" />
 
 <p style="float: right; width: 55%;">
