@@ -15,6 +15,8 @@ Integrated custom roles:
 - Jester (you will win if you get voted out)
 - Pelican (you can eat crewmates)
 - Dragger (you can drag bodies)
+- Phantom (turn invisible)
+- Shapeshifter (disguise yourself)
 
 ### External Mods Support (Done)
 
