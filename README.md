@@ -12,7 +12,6 @@
 <br>
 
 </p>
-<p align="center">
 
 ## Features
 
