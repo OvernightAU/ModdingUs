@@ -1,12 +1,8 @@
-<img align="left" alt="Cover" src="art/MULogoRebrand.png" width="10%" height="10%" />
-
-<p style="float: right; width: 55%;">
-
 > ### Regarding this mod
->
->
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
-<br>
+
+Modding Us will get scraped soon, but some people will still keep the servers online and maintain the game!
+
+Migrate to [Starlight](https://discord.gg/adXeB8zvRb) if you want a more updated base game (releasing in the upcoming months). 
 
 </p>
 
