@@ -1,3 +1,5 @@
 Modding Us will get depecreated soon, but some people will still keep the servers online and maintain the game!
 
 Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> if you want a more updated base game (releasing in the upcoming months).
+
+This version (v2025.2.24) will be probably the last build by Pietro, all the next builds will be coded fully by AndriesWorks.
