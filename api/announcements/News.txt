@@ -1,7 +1,5 @@
-Modding Us will get depecreated soon, but some people will still keep the servers online and maintain the game!
+<b>Modding Us</b> will get depecreated soon, but some people will still keep the servers online and maintain the game!
 
-Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> (All Of Us) if you want a more updated base game (releasing in the upcoming months).
+Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> (All Of Us) if you want a more updated base game <i>(releasing in the upcoming months)</i>.
 
-This version (v2025.2.24) will be probably the last build by Pietro, all the next builds will be coded fully by AndriesWorks.
-
-For more news about the owner change, join <link='https://discord.gg/eCqQAYYH9Y'>Modding Us</link> Discord server.
+This version (<i>v2025.2.24</i>) will be probably the last build by Pietro, all the next builds will be coded fully by <color=#A020F0>AndriesWorks</color>.
