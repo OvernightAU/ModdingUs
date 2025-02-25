@@ -4,4 +4,4 @@ Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> (All Of Us) if
 
 This version (v2025.2.24) will be probably the last build by Pietro, all the next builds will be coded fully by AndriesWorks.
 
-For more news about the owner change, join <link'https://discord.gg/eCqQAYYH9Y'>Modding Us Discord server</link>
+For more news about the owner change, join <link='https://discord.gg/eCqQAYYH9Y'>Modding Us Discord server</link>
