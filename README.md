@@ -58,11 +58,7 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
 # Disclaimer and Distribution Notice for Third-Party Content
-The map "Submerged" is not my creation, nor has it been officially added by any original dev. Therefore, don't expect any bug fixes from the original developers. However, if you're interested in an official distribution of Submerged and have a PC, you can find it at https://github.com/SubmergedAmongUs/Submerged.
-
-In the event of a formal request for the removal of the "Submerged" map by developers associated with Submerged, I hereby agree to promptly remove said map. Additionally, if Innersloth, the creator of the base game, requests the cessation or temporary suspension of the game due to policy infractions, I will willingly adhere to their directives.
-
-You can Contact us at: <a href="mailto:lorenzogamer398@gmail.com" style="color:blue;">lorenzogamer398@gmail.com</a>
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
 # Modding Us Credits
 - Project Lead and Developer
