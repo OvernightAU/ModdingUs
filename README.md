@@ -65,7 +65,6 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
   - [Pietro](https://www.youtube.com/@pietro420)
 
 - Artists
-  - [PengunYT](https://www.youtube.com/channel/UCXLSJ5exAFpFEA-hqKBC3Bw)
   - [Sonrio](https://www.youtube.com/channel/UCq2mi9fit3RoJAJIP31iKAA)
   - [RSE](https://www.reddit.com/user/rotten_pennis)
 
