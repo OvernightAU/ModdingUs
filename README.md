@@ -1,6 +1,6 @@
 > ### Regarding this mod
 
-Modding Us uses a old version of the base game, it will still be maintained and have its servers kept online, but if you want a mod launcher compatible with the latest game version and most BepInEx mods, migrate to [Starlight](https://discord.gg/adXeB8zvRb) (releasing in the upcoming months). 
+Modding Us uses a old version of the base game, it will still be maintained, but if you want a mod launcher compatible with the latest game version and most BepInEx mods, migrate to [Starlight](https://discord.gg/adXeB8zvRb) (releasing in the upcoming months). 
 
 </p>
 
