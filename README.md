@@ -47,9 +47,6 @@ Modding Us has external mods support. so devs can easily create their own mods. 
 3. **Install Modding Us** - Install the APK you downloaded by following the on-screen instructions.
 4. **Launch the Game** - Open Among Us from your app drawer, and you should now be able to play.
 
-### Mobile (iOS)
-iOS support is being developed!
-
 ## Community and Support
 
 Join our community of Modding Us! If you encounter any issues, have suggestions, or want to share your experiences with the game, feel free to:
