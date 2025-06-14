@@ -1,5 +1,4 @@
-O Modding Us será descontinuado em breve, mas algumas pessoas ainda manterão os servidores online e continuarão mantendo o jogo!
+**Modding Us** ganhou um novo servidor graças ao Bluesus!
+Temos algumas atualizações planejadas para melhorar a qualidade de vida, o suporte a mods e a compatibilidade.
 
-Migre para o <link='https://discord.gg/adXeB8zvRb'>Starlight</link> se você quiser uma versão base do jogo mais atualizada (lançamento nos próximos meses).
-
-Esta versão (v2025.2.24) provavelmente será a última build feita pelo Pietro, todas as próximas builds serão feitas pelo AndriesWorks.
+Migre para o \<link='[https://discord.gg/adXeB8zvRb'>Starlight](https://discord.gg/adXeB8zvRb'>Starlight)</link> (All Of Us) se quiser uma versão mais atualizada do jogo base <i>(será lançado nos próximos meses)</i>.
