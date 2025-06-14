@@ -1,5 +1,4 @@
-<b>Modding Us</b> will get depecreated soon, but some people will still keep the servers online and maintain the game!
+<b>Modding Us</b> got a new server thanks to Bluesus!
+We have some updates planned to improve QOL, mod support and compatibility.
 
 Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> (All Of Us) if you want a more updated base game <i>(releasing in the upcoming months)</i>.
-
-This version (<i>v2025.2.24</i>) will be probably the last build by Pietro, all the next builds will be coded fully by <color=#A020F0>AndriesWorks</color>.
