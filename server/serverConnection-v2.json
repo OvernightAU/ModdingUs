@@ -1,6 +1,5 @@
 [
   { "name": "North America", "ip": "178.156.171.131", "port": 22023 },
-  { "name": "South America", "ip": "34.39.233.65", "port": 22023 },
   { "name": "Europe", "ip": "91.99.149.150", "port": 22023 },
   { "name": "Asia", "ip": "5.223.42.148", "port": 22023 },
 ]
