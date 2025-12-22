@@ -2,7 +2,9 @@
   { "name": "North America", "ip": "178.156.171.131", "port": 22023 },
   { "name": "Europe", "ip": "91.99.149.150", "port": 22023 },
   { "name": "Asia", "ip": "5.223.42.148", "port": 22023 },
+  { "name": "Dlovan NA", "ip": "213.204.219.110", "port": 22023 },
 ]
+
 
 
 
